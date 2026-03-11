@@ -15,7 +15,7 @@
 
 ## ⚡ About Me
 
-Yes, I'm a Computer Engineering student double majoring in Electrical & Electronics Engineering. And yes, I know what you're thinking — *"are you insane?"* — to which I say: **yeah, probably.** No, I don't sleep. No, I don't have a social life. Yes, I do this voluntarily. My days consist of staring at **embedded systems**, arguing with **computer architecture**, and drawing circuits until the schematic starts staring back. I'm also diving into **digial and analog circuit design** and **kernel programming** because apparently I enjoy suffering in high resolution. If you're here to see cool low-level stuff — welcome. If you're here to ask why I chose this path, the answer is: *I have no idea, but the registers are on fire and I love it.*
+Yes, I'm a Computer Engineering student double majoring in Electrical & Electronics Engineering. And yes, I know what you're thinking — *"are you insane?"* — to which I say: **yeah, probably.** No, I don't sleep. No, I don't have a social life. Yes, I do this voluntarily. My days consist of staring at **embedded systems**, arguing with **computer architecture**, and drawing circuits until the schematic starts staring back. I'm also diving into **digital and analog circuit design** and **kernel programming** because apparently I enjoy suffering in high resolution. If you're here to see cool low-level stuff — welcome. If you're here to ask why I chose this path, the answer is: *I have no idea, but the registers are on fire and I love it.*
 
 ---
 
