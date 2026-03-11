@@ -5,11 +5,11 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=Samet_Alper_Ozdemir&fontSize=60&fontColor=c0392b&animation=fadeIn&fontAlignY=38&desc=Hardware%20%7C%20Embedded%20Systems%20%7C%20Low-Level%20Engineering&descAlignY=58&descColor=888888" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=Samet+Alper+Ozdemir&fontSize=60&fontColor=c0392b&animation=fadeIn&fontAlignY=38&desc=Hardware%20%7C%20Embedded%20Systems%20%7C%20Low-Level%20Engineering&descAlignY=58&descColor=888888" />
 
 <!-- TYPING ANIMATION -->
 <!-- 🔴 REPLACE: Edit the "lines" parameter to customize your intro sentences -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C0392B&center=true&vCenter=true&width=700&lines=CS+%26+EE+Double+Major+%7C+Yes%2C+Both.;Embedded+Systems+%7C+Bare+Metal+Enjoyer;Digital+%26+Analog+Circuit+Design;Kernel+Programming+%7C+Still+Learning;Powered+by+Caffeine+%26+Desperation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C0392B&center=true&vCenter=true&width=700&lines=CS+%26+EE+Double+Major+%7C+Yes%2C+Both.;Embedded+Systems+%7C+Bare+Metal+Enjoyer;Kernel+Programming+%7C+Still+Learning;Powered+by+Caffeine+%26+Desperation)](https://git.io/typing-svg)
 
 ---
 
