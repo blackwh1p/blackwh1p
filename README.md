@@ -5,7 +5,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=Samet+Alper+Ozdemir&fontSize=60&fontColor=c0392b&animation=fadeIn&fontAlignY=38&desc=Hardware%20%7C%20Embedded%20Systems%20%7C%20Low-Level%20Engineering&descAlignY=58&descColor=888888" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=Samet+Alper+Özdemir&fontSize=60&fontColor=c0392b&animation=fadeIn&fontAlignY=38&desc=Hardware%20%7C%20Embedded%20Systems%20%7C%20Low-Level%20Engineering&descAlignY=58&descColor=888888" />
 
 <!-- TYPING ANIMATION -->
 <!-- 🔴 REPLACE: Edit the "lines" parameter to customize your intro sentences -->
